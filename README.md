@@ -1,29 +1,19 @@
-# jest-demo
+# vue-jest-demo 
 
-## Project setup
-```
-npm install
-```
+通过实践学习 jest 的使用
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 安装
 
-### Compiles and minifies for production
 ```
-npm run build
+yarn install
 ```
+## 启动
 
-### Run your unit tests
 ```
-npm run test:unit
+yarn serve 
 ```
+## 单元测试
 
-### Lints and fixes files
 ```
-npm run lint
+yarn test:unit
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
